@@ -2,6 +2,10 @@
 ## Задания
 
 1. Создал учетную запись на GitHub.
+      ```
+      git config --global user.name "Vakkajo"
+      git config --global user.email "nikitayn433@mail.ru"
+      ```
 2. Создал папку для работы с Git:
       ```
       mkdir git_00
